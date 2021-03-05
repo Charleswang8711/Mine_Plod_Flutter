@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999359299084",
+    "firebase_url": "https://mineplot-50238.firebaseio.com",
+    "project_id": "mineplot-50238",
+    "storage_bucket": "mineplot-50238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999359299084:android:c1e1a1a2459c679f",
+        "android_client_info": {
+          "package_name": "com.example.mineplod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999359299084-q1p6brl89s6985f2i01km8sbpmj7q97c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mineplod",
+            "certificate_hash": "013605dd5c008c993112483e22dc76df367c5ae7"
+          }
+        },
+        {
+          "client_id": "999359299084-5vm37e7hnc07tb3nfbiudaa1k5hhnam6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4IeF2rqc00Xa31ipbzQrkeI9xmFlK7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999359299084-5vm37e7hnc07tb3nfbiudaa1k5hhnam6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
